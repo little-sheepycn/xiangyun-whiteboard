@@ -23,7 +23,7 @@
 
 #### Manjaro Linux Plasma
 
-- 希沃白板5、轻白板、希沃视频展台
+- 希沃白板5(轻白板已包含在其中，一打开默认就是轻白板)、希沃视频展台
 - WPS Office
 - Yesplaymusic（网易云第三方客户端）
 - Wine（WinNT转译层）
