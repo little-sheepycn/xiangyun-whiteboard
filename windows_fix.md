@@ -100,3 +100,14 @@ Windows11：10.0.22000.917
 这个过程大约需要45分钟到一个小时，期间的部分操作对磁盘和CPU占用较大，请在确认不会影响正常教学后操作，或在家里的电脑上生成好镜像后再拷到班级白板后使用
 
 如果Windows目前无法使用，用之前创建的PE维护环境也可以生成ISO，当然，用我安装的Manjaro Linux也行，我会在之后的Manjaro教程中叙述
+
+## 用DISM++这把瑞士军刀备份和还原系统
+
+[DISM++](https://github.com/Chuyu-Team/Dism-Multi-language)是一个功能十分强大的工具，这里只讲述系统备份与还原功能
+
+___由于DISM++已经很久没有更新过了，（上次更新还是在去年8月）可能存在一些bug，请慎用其中的功能！___
+
+DISM++的优势在于，原本使用DISM需要敲一长串命令才能执行的操作，现在点两下就可以解决
+
+从[Github Release](https://github.com/Chuyu-Team/Dism-Multi-language/releases)获取最新版本。由于Github不挂ladder下载速度拉跨，请考虑使用代理一类的服务下载（我才不会告诉你其实我已经准备了，当然在后面我会给你解释的）
+
