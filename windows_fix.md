@@ -111,3 +111,5 @@ DISM++的优势在于，原本使用DISM需要敲一长串命令才能执行的�
 
 从[Github Release](https://github.com/Chuyu-Team/Dism-Multi-language/releases)获取最新版本。由于Github不挂ladder下载速度拉跨，请考虑使用代理一类的服务下载（我才不会告诉你其实我已经准备了，当然在后面我会给你解释的）
 
+下载完成后解压，然后忽略压缩包中的提示，直接双击运行“Dism++x64.exe”
+
